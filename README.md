@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=subham-pantha" alt="subham-pantha" /></a> </p>
 
-- 🔭 I’m currently working on **Facial detection model**
+- 🔭 I’m currently working on **RAG system pipeline**
 
-- 🌱 I’m currently learning **NLP,maths.**
+- 🌱 I’m currently learning **NLP,maths, Agentic AI**
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 🤝 I’m looking for help with **DL maths**
+- 🤝 I’m looking for help with **Suggestion and more**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Cosmic882](https://github.com/Cosmic882)
 
-- 💬 Ask me about **Model training, python, cpp, c,js, php, sql**
+- 💬 Ask me about **Model training, python, cpp, c,js, php, sql, Agentic AI, Automamtion**
 
 - 📫 How to reach me **panthasubham88@gmail.com**
 
